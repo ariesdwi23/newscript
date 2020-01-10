@@ -1,0 +1,74 @@
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/serviceContact cost :134
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/autoupdate cost :129
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/paytypes cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :6
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/skippay cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/skippay cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/serviceContact cost :234
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/autoupdate cost :224
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/paytypes cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :5
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/skippay cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/autoupdate cost :258
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/serviceContact cost :264
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/paytypes cost :3
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/exchange cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1//510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/query/speaker cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9////868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1&application/octet-stream
+jimmy run, url is:https://epoch.finzfin.com/collect/common/v1/stream cost :150
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9////868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1&application/octet-stream
+jimmy run, url is:https://epoch.finzfin.com/collect/common/v1/stream cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/post/serviceContact cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/paytypes cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/exchange cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/post/coupon/usableList cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/autoupdate cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/model/report cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/speaker cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/skippay cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/model/report cost :2
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9///6.4.2beta1/868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/speaker cost :1
+jimmy run,  values is :&28&V6.0&Realme/RMX1821/9////868236045406155/510897250182542&in-ID&05AA13F0396E4D1AB435708674A9B413&70:5E:55:61:5E:A1&application/octet-stream
+jimmy run, url is:https://epoch.finzfin.com/collect/common/v1/stream cost :2
